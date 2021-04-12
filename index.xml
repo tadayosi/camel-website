@@ -6,10 +6,28 @@
     <description>Recent content in Home on Apache Camel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://camel.apache.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Camel Quarkus 1.8.1 Released</title>
+      <link>https://camel.apache.org/blog/2021/04/camel-quarkus-release-1.8.1/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://camel.apache.org/blog/2021/04/camel-quarkus-release-1.8.1/</guid>
+      <description>The patch release 1.8.1 of Camel Quarkus brings 14 improvements and fixes.</description>
+    </item>
+    
+    <item>
+      <title>Camel Quarkus release 1.8.1</title>
+      <link>https://camel.apache.org/releases/q-1.8.1/</link>
+      <pubDate>Wed, 07 Apr 2021 18:00:00 +0100</pubDate>
+      
+      <guid>https://camel.apache.org/releases/q-1.8.1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Camel Kafka Connector release 0.9.0</title>
